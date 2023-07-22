@@ -1,4 +1,6 @@
 # rutas
-Programa para oficina de pronóstico. Genera documentación sobre rutas de vuelo.
+Script for forecast office. General documentation on flight routes.
 
-Descarga imágenes de la web de Aviation Weather Center (NOAA) y las compila en una archivo PDF que se guarda en una carpeta de Google Drive. A requerimiento, esta documentación puede ser entregada de forma virtual o impresa para documentación de vuelo.
+It downloads images from the Aviation Weather Center (NOAA) website and compiles them into a PDF file that is saved to a Google Drive folder. Upon request, this documentation can be delivered virtually or printed for flight documentation.
+
+This script was created in Google Colab.
